@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191078694823",
+    "project_id": "shorts-clone-backend",
+    "storage_bucket": "shorts-clone-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191078694823:android:c21bbd10f9c3e8fdb9c082",
+        "android_client_info": {
+          "package_name": "com.video.shorts_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191078694823-rrneiu9o82fn7bncq30pql7fi9rbptlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkPzoP5dLpCk1lvVgfQqrL46tkyTkj638"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191078694823-rrneiu9o82fn7bncq30pql7fi9rbptlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
